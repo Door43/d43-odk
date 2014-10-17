@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[odk:home|Door43 (odk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-odk|d43-odk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-odk/archive/master.zip|d43-odk.zip]]
+
+**Recent Changes**
+{{changes>ns = odk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/odk|Ethnologue data]]
+
